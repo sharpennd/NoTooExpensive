@@ -1,0 +1,6 @@
+name: NoTooExpensive
+version: '${project.version}'
+main: dev.plugin.notooexpensive.NoTooExpensive
+api-version: '1.21.11'
+description: Removes the 'Too Expensive' anvil cost cap so players can always use the anvil.
+authors: [ sharpennd ]
